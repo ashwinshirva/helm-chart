@@ -3,12 +3,23 @@ entries:
   samplechart1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-16T16:18:59.038877211+05:30"
+    created: "2022-10-16T16:21:45.515166769+05:30"
     description: A Helm chart for Kubernetes
-    digest: 315b5b72ba232d38bac7f9883fc04a8b0b16cdf0b934d1a71aaebf0ca5716cf5
+    digest: 574e10c1d9494a6de5fdd3e892f579a27609918249e5745040623e71337b00a0
     name: samplechart1
     type: application
     urls:
     - https://ashwinshirva.github.io/helm-chart/samplechart1-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-16T16:18:59.038068345+05:30"
+  samplechart2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-16T16:21:45.515649366+05:30"
+    description: A Helm chart for Kubernetes
+    digest: ba4c1a5aa4597a6dc88242ac8c8ea032fae88774fdff0fca94064486cec4e956
+    name: samplechart2
+    type: application
+    urls:
+    - https://ashwinshirva.github.io/helm-chart/samplechart2-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-16T16:21:45.514445933+05:30"
