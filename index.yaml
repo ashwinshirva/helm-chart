@@ -3,7 +3,7 @@ entries:
   samplechart1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-16T16:03:05.794837759+05:30"
+    created: "2022-10-16T16:18:59.038877211+05:30"
     description: A Helm chart for Kubernetes
     digest: 315b5b72ba232d38bac7f9883fc04a8b0b16cdf0b934d1a71aaebf0ca5716cf5
     name: samplechart1
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://ashwinshirva.github.io/helm-chart/samplechart1-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-16T16:03:05.793851323+05:30"
+generated: "2022-10-16T16:18:59.038068345+05:30"
